@@ -23,7 +23,6 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Some knowledge of navigating through the Azure portal is expected. Intermediate programming skills in Python and C++ are assumed.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Software Requirements:
 
 Operating system: Windows/Linux/Mac
 Browser: Microsoft Edge/Chrome/Safari
