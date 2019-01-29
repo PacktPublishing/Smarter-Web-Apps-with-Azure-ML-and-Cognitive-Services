@@ -20,7 +20,8 @@ No other course gives you the skills you need to create apps that are not only s
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Some knowledge of navigating through the Azure portal is expected. Intermediate programming skills in Python and C++ are assumed.
+Some knowledge of navigating through the Azure portal is expected. Also, intermediate programming skills in Python and C++ are assumed.
+<br>
 ### Technical Requirements
 This course has the following software requirements:<br/>
 <UL>
