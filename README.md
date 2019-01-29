@@ -23,12 +23,13 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Some knowledge of navigating through the Azure portal is expected. Intermediate programming skills in Python and C++ are assumed.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-
-Operating system: Windows/Linux/Mac
-Browser: Microsoft Edge/Chrome/Safari
-An Azure subscription
-The Azure Command-Line Interface (CLI).
-A Git client
+<UL>
+<LI>Operating system: Windows/Linux/Mac</LI>
+<LI>Browser: Microsoft Edge/Chrome/Safari</LI>
+<LI>An Azure subscription</LI>
+<LI>The Azure Command-Line Interface (CLI).</LI>
+<LI>A Git client</LI>
+</UL>
 
 ## Related Products
 * [Cloud Native Development on Azure with Java [Video]](https://www.packtpub.com/virtualization-and-cloud/cloud-native-development-azure-java-video?utm_source=github&utm_medium=repository&utm_campaign=9781789805956)
